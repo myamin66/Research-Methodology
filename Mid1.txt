@@ -1,1 +1,84 @@
+The contents of a Research process are:
+  Identify the general research area
+  Choose your research topic and domain
+  Review the literature
+  Identify the research problem
+  Formulate the research methodology
+  Collect data
+  Perform experiments
+  Analyze and interpret the data
+  Present your findings
+  
+Research Definition:
+  it is a systematic process to find and a systematic process to solve a particular problem
+Significance/ Value of Research:
+ -  for an undesireable situation
+ -  for knowledge seeking
+ Research paper: 
+ 1) primary (technical)
+ 2) secondary (review)
+ 
+ In conference paper : conference or proceedings keyword
+ In Journal: journal keyword or nothing
+A paper can be published in only one journal or confernece but that journal can be indexed on multiple academic databases.
 
+Impact factor: no of citation / paper published in that year.
+ISI Indexed Journal: if a paper is published in a journal that is available in master journal list and jouranl citation report then this jouranl is called imapct factor or isi indexed journal (Instituter of scientific information).
+
+Classification of research: based on four things  
+1) purpose
+  a) exploratory
+  b) descriptive
+  c) explanatory
+2) use
+  a) basic
+  b) applied
+3) time
+  a) cross-sectional (once)
+  b) longitudenal(multiple)
+4) data collection
+  a) qualitative
+  2) quantitative
+For exploratory reseach we can do 
+1) experience surverys, 2) secondary data analysis, 3) case study, 4) pilot study
+
+RM in CS
+1) Implementation driven approach
+2) Mathematic proof techniques
+3) quantitaive
+4) qualitative
+5) mixed(qualitative and quantitative)
+
+Why reference management software:
+  1) easy to manange and use 
+  2) user friendly
+  3) auto-references and citation
+  5) organize, store, retrieved
+  6) duplicate removes
+  
+  
+ To a Systematic Literature review critically
+ 1) title  : relevent , concise, precise, review keyword
+ 2) abstrat: background, need, objective, methodogly, results, significance
+ 3) introduction: rationale (background, need) , objective
+ 4) methodology: search strategy, keyword, query, search in topic or title, databases, why these dbs, research question, seletion(inclusino and exclusion) criteria, quality assesment criteria, data extraction strategy
+ 5) review: summarize, critically appraise, futrure direction, (discussion optional)
+ 6) discussion (optional)
+ 7) conclusion: summarzise, future directions
+ 
+ authors have done a very good job but in absract lacks significance
+ 
+ Some strength: 1) title 
+ 2) well defined methodology
+ 3) apporoach
+ 4) funnel structure
+ 
+ weaknesses
+ 1) no future directions, mismatches
+ Publicaiton bias: 1) why not grey literature
+ 2) why only these dbs
+ 3) why english
+ 4) why these years
+ 5) why not conference papers
+ 5) only good things not limitation to your paper told
+ 
